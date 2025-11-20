@@ -40,7 +40,3 @@ Para testar o sistema com perfis predefinidos, use o predicado `testar/1` dispon
     
     ?- testar('testes/perfil_analitico.pl').
     ```
-
----
-
-Com essa divisão, seu projeto fica muito mais profissional e organizado. Cada arquivo tem uma responsabilidade clara, o que facilita o entendimento, a depuração e futuras expansões.
